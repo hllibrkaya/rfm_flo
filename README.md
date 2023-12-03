@@ -9,7 +9,7 @@ in these behaviors.
 ## Project Structure
 
 - **rfm.py**: Python script containing functions for preparing rfm dataset.
-- **rfm_research.xlsx**: Python script containing obs./researchs from raw dataset .
+- **rfm_research.py**: Python script containing obs./researchs from raw dataset .
 - **rfm_flo.csv**: Excel file containing the rfm scores and segments.
 - **target_customer_ids.csv**: CSV file for first task.
 - **offer_target_customer_ids.csv**: CSV file for second task.
